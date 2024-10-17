@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/amedhmd/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20DEVELOPER;React,Node.Js,%20Laravel Expert;%20&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20DEVELOPER;React+Node.Js,%20Laravel Expert;%20&font=fira%20Code&center=true&width=440&height=35&color=#00fdff&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
