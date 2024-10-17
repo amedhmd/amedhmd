@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20DEVELOPER;React+Node.Js,%20Laravel Expert;%20&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  <a href="https://github.com/amedhmd/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK%20DEVELOPER;React,Node.Js,%20Laravel Expert;%20&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -30,15 +30,15 @@
 </p>  
 
 <!---
-<a href="https://github.com/oraclebrain/github-readme-stats">
+<a href="https://github.com/amedhmd/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
 </a>
 ----------->
 <p align="center">
-  <a href="https://github.com/oraclebrain?tab=repositories">
+  <a href="https://github.com/amedhmd?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=oraclebrain&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="45%" alt="@Oraclebrain's github-readme-stats">
   </a>
-  <a href="https://github.com/oraclebrain?tab=stars">
+  <a href="https://github.com/amedhmd?tab=stars">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=oraclebrain&theme=shadow-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="45%" alt="@AJ's github-readme-streak-stats">
   </a>
 </p>
