@@ -13,13 +13,11 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> React+Node.js | Laravel Expert.</div> 
 
 
 <ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Location <strong>403 Forbidden</strong>
-  </li>
+  
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="https://amedhmd.github.io/" target="_blank"><strong>Portfolio</strong></a>
   </li>
@@ -91,7 +89,9 @@
   ![VMware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
   
 
-  
+  [![MSUS Cloud Skills Challenge Champion](/Cloud.png)](https://www.credly.com/earner/earned/badge/ba9fb2c5-2c8b-4705-9917-423c9513dafb/public_url)
+  [![Zerto Certified Associate](/image.png)](https://www.credly.com/earner/earned/badge/430e0bad-042a-4651-b72a-2c6be9f7386f/public_url)
+  [![AWS Developer Associate](/dev.png)](https://www.credly.com/badges/4c5a6916-9679-4500-9eb8-e3042d073dd2/public_url)
    
 
 <br/>
