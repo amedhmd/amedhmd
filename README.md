@@ -71,21 +71,27 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
- 
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=REST_APIs&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+
+  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> e-Commerce:</div>
+  
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
   ![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=Shopify&logoColor=white)
   ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=Wix&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=WooCommerce&logoColor=white)
+
+ 
+ ## <div><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/ibmcloud.svg" width="30px" align="center" alt="Cloudi" /> Cloud Technologies:</div>
   
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=Azure&logoColor=white)
+  ![VMware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
   
+
   
-  ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=REST_APIs&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
-  
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
-  ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
    
 
 <br/>
