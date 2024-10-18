@@ -48,7 +48,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammed-ibrahim1/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
 
-  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
+  ## :hammer_and_wrench: Technical Skills
 
 
      
@@ -74,24 +74,38 @@
   ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=REST_APIs&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
 
-  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> e-Commerce:</div>
-  
+  ## :shopping_cart: e-Commerce:
+    
   ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white)
   ![Shopify](https://img.shields.io/badge/Shopify-96bf48?style=for-the-badge&logo=Shopify&logoColor=white)
   ![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=Wix&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=WooCommerce&logoColor=white)
+  ![Woocommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=WooCommerce&logoColor=white)
+  ![Bigcommerce](https://img.shields.io/badge/bigcommerce-%23121118?style=for-the-badge&logo=bigcommerce&logoColor=white)
+
 
  
- ## <div><img src="https://raw.githubusercontent.com/onemarc/tech-icons/refs/heads/main/icons/ibmcloud.svg" width="30px" align="center" alt="Cloudi" /> Cloud Technologies:</div>
+   ## :cloud: Cloud Technologies
   
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=Azure&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/azure-007FFF?style=for-the-badge&logo=teratail&logoColor=white)
   ![VMware](https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-  
 
-  [![MSUS Cloud Skills Challenge Champion](/Cloud.png)](https://www.credly.com/earner/earned/badge/ba9fb2c5-2c8b-4705-9917-423c9513dafb/public_url)
-  [![Zerto Certified Associate](/image.png)](https://www.credly.com/earner/earned/badge/430e0bad-042a-4651-b72a-2c6be9f7386f/public_url)
-  [![AWS Developer Associate](/dev.png)](https://www.credly.com/badges/4c5a6916-9679-4500-9eb8-e3042d073dd2/public_url)
+  ## :computer: Operating System
+  ![Static Badge](https://img.shields.io/badge/Windows-007FFF?style=for-the-badge&logo=w&logoColor=white) 
+  ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+
+
+  ## :heavy_check_mark: Certifications
+
+  
+  ![ACE_Associate](https://github.com/user-attachments/assets/a4dcc2ce-1dd2-4611-acf6-1849ebc3e4ee)
+  ![ACE_General](https://github.com/user-attachments/assets/2ca588ae-c353-4100-b4ae-72d8d742526c)
+  ![image](https://github.com/user-attachments/assets/e216a24e-1fca-41f8-9138-759023be51ad)
+  ![Cloud](https://github.com/user-attachments/assets/465c8fe7-a8f2-4438-ba36-670f2348ae70)
+
+
+
+ 
    
 
 <br/>
