@@ -2,18 +2,18 @@
   <img src="https://github.com/user-attachments/assets/e5dd69ab-c050-4395-986a-b485d9c96ae9" alt="GitHub Banner showcasing a professional profile" width="100%">
 </div>
 
-<h1>
+<h1 align="center"
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
     Hi, I'm <a href="https://amedhmd.github.io/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/>Hammed</a>!
   <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
-  Full Stack Developer
+  
 </h1>
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> React+Node.js | Laravel Expert.</div> 
+   <h2 align="center" >Full Stack Developer | React+Nodejs | Laravel Expert</h2>
 
 
 <ul>
